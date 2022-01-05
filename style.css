@@ -1,0 +1,58 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.second-class{
+    font-size: 40px;
+}
+.third-class{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.first-class{
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 2%;
+}
+.first-class img{
+    width: 60%;
+    padding-left: 15%;
+}
+.explore-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 40px;
+    color: wheat;
+}
+.fifth-class{
+    color: yellowgreen;
+}
+.six-class{
+    text-align: center;
+}
+.seven-class{
+    display: flex;
+    border: tomato;
+}
+.nine-class{
+    width: 34%;
+}
+.ten-class{
+    width: 32%;
+    border: 3px solid rgb(206, 186, 186);
+    padding: 10px;
+    margin: 45px;
+    border-radius: 25px;
+}
+#rotary-clg{
+    background-color: rgb(197, 194, 197);
+    margin-right: 15px;
+}
+#public-clg{
+    background-color: rgb(236, 221, 193);
+}
+#bl-clg{
+    background-color: rgba(8, 243, 184, 0.418);
+    margin-left: 15px;
+}
