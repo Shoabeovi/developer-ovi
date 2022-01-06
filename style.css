@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+#margin-left{
+    border-left: 5px orange solid;
+    font-size: 30px;
+}
 .second-class{
     font-size: 40px;
 }
@@ -24,6 +28,7 @@ section{
     background-image: linear-gradient(tomato,orange);
     padding: 10px 40px;
     color: wheat;
+    border-radius: 5px;
 }
 .fifth-class{
     color: yellowgreen;
@@ -55,4 +60,62 @@ section{
 #bl-clg{
     background-color: rgba(8, 243, 184, 0.418);
     margin-left: 15px;
+}
+.rupsa-class{
+    display: flex;
+    padding: 10px;
+    margin-top: 40px;
+    background-image: url(shapes/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.citra-class{
+    width: 50%;
+}
+.citra-class img{
+    width: 50%;
+    margin-left: 120px;
+}
+#padma-class{
+    margin-right: 100px;
+    padding-right: 40px;
+}
+.jamuna-class{
+    font-size: 30px;
+
+}
+.read-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 35px;
+    border-radius: 5px;
+    color: cornsilk;
+}
+.global-class{
+    display: flex;
+    background-image: url(shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+.glove-class{
+    font-size: 30px;
+}
+.bd-class{
+    width: 50%;
+}
+.bd-class img{
+    width: 50%;
+    margin-left: 30px;
+}
+#student-class{
+    padding-right: 90px;
+}
+.document-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,yellow);
+    padding: 10px 35px;
+    border-radius: 5px;
+    color: rgb(245, 242, 236);
 }
