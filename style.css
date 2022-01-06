@@ -119,3 +119,21 @@ section{
     border-radius: 5px;
     color: rgb(245, 242, 236);
 }
+.mission-class{
+    background-color: black;
+    height: 150px;
+
+}
+.easy-class{
+    color: blanchedalmond;
+    text-align: center;
+    border-top: 50px;
+}
+.year-class{
+    color: rgb(153, 139, 119);
+
+}
+.hard-class{
+    color: cadetblue;
+    text-align: center;
+}
