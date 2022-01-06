@@ -137,3 +137,22 @@ section{
     color: cadetblue;
     text-align: center;
 }
+.nam-class{
+    color: chocolate;
+}
+.personal-class{
+    display: flex;
+    padding: 10px;
+    margin-top: 40px;
+}
+.my-class{
+    width: 50%;
+}
+.my-class img{
+    width: 50%;
+    margin-left: 30px;
+
+}
+.personal-class{
+    margin-left: 50px;
+}
